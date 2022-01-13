@@ -1,0 +1,5 @@
+{
+    "env": {
+        "whereAmI": "You are in dev environment"
+    }
+}
