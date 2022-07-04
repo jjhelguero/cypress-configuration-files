@@ -12,3 +12,5 @@ There are three different environment configuration files, thus we have three np
 `npm run cy:run:dev`\
 `npm run cy:run:qa`\
 `npm run cy:run:prod`
+
+NOTE: Due to the combination of `env config` files and `grepFilterSpecs=true` all tests appear on the report but not be executed. This is not an actually skipping of skipping of the files and only running tagged tests. To truly see the power of the `grepFilterSpecs=true` the `env config` files must be removed.
