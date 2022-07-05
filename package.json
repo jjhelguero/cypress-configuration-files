@@ -5,7 +5,7 @@
     "cy:run:prod": "npx cypress run --env configFile=prod,grepTags=@prod,grepOmitFiltered=true"
   },
   "devDependencies": {
-    "cypress": "^9.2.1",
+    "cypress": "9.7.0",
     "cypress-grep": "^2.13.1"
   }
 }
