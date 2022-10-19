@@ -6,7 +6,6 @@
     {
       "packagePatterns": ["*"],
       "excludePackagePatterns": [
-        "cypress",
         "cypress-grep"
       ],
       "enabled": false
