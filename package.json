@@ -6,6 +6,6 @@
   },
   "devDependencies": {
     "cypress": "9.2.1",
-    "cypress-grep": "3.0.2"
+    "cypress-grep": "3.0.4"
   }
 }
